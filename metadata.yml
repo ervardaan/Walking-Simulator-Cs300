@@ -1,0 +1,12 @@
+---
+:id: 135369077
+:submitters:
+- :name: VARDAAN KAPOOR
+  :email: vkapoor5@wisc.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-21 22:24:26.760531000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-21 15:24:26.760531000 Z
+:status: processed
+:score: 40.0
